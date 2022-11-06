@@ -3,7 +3,7 @@ body {
 }
 
 .welcome {
-    text-transform: lowercase;
+    text-transform: uppercase;
     text-align: center;
 }
 
