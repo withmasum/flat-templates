@@ -44,3 +44,12 @@ a {
 }
 
 .button {}
+
+.blog {
+    background-color: beige;
+    padding-bottom: 25px;
+    margin-left: 12px;
+    border-radius: 10px;
+    padding-left: 9px;
+    padding-right: 5px;
+}
