@@ -12,3 +12,33 @@ body {
     border-radius: 50%;
 
 }
+
+.blog {
+    text-align: auto;
+    width: 23%;
+    float: left;
+    padding: 2px;
+    padding-right: 6px;
+    padding-left: 6px;
+}
+
+.blog h2 {
+    color: maroon;
+    text-transform: uppercase;
+}
+
+.blog p {}
+
+a {
+    text-decoration: none;
+}
+
+.button a {
+    color: maroon;
+    background-color: yellow;
+    padding: 9px;
+    border-radius: 10px;
+    border: 2px solid maroon;
+    text-transform: uppercase;
+
+}
