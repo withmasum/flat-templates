@@ -6,3 +6,9 @@ body {
     text-transform: lowercase;
     text-align: center;
 }
+
+.images-size img {
+    width: 15%;
+    border-radius: 50%;
+
+}
