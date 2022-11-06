@@ -1,0 +1,8 @@
+body {
+    font-family: helvetica;
+}
+
+.welcome {
+    text-transform: lowercase;
+    text-align: center;
+}
